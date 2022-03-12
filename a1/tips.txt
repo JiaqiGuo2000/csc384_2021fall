@@ -1,0 +1,4 @@
+/** WRITE YOUR TIPS IN THIS FILE **/
+1. There are two ways to build a good search algorthm: first is to minimize the cost of each search iteration, the other one is to minimize the number of search iteration.
+2. Although writing a more complicated method might make the heuristic function more accurate, it would take longer time, which is not effecticient enough. It is crucial to make a balance between accuracy and running time.
+3. Reusing the function values that was returned previously could save significant amount of time. In another word, time could be traded with space.
